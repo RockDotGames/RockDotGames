@@ -1,0 +1,41 @@
+html{
+ margin: 0;
+ padding: 0;
+ font: 1.5vw "Exo 2";
+ background: url("background.png") fixed;
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: white;
+ font-size: 1.5vw;
+}
+body {
+  margin-top: 8vw;
+  width: 60vw;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(80, 80, 80, .2);
+  padding: 2vw;
+}
+.header {
+ top: 0;
+ left: 0;
+ padding: 1vw;
+ background: #494949;
+ color: white;
+ position: fixed;
+ width: 100vw;
+}
+img {
+  width: 5vw;
+}
+br {
+  display: none;
+}
+iframe {
+  width: 40vw;
+  height: 40vw;
+}
+.iframeitch {
+  width: 40vw;
+  height: 10vw;
+}
