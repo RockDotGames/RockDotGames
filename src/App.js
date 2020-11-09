@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+import announcements from './announcements.json'
+
 function App() {
   return (
     <div className="App">
@@ -38,6 +40,15 @@ function App() {
     <p>LivingSkeleton11 - Moderator</p>
     <br />
     <br />
+    <h2>Announcements</h2>
+    {announcements.map(({date, name, text}) => {
+      return (
+        <div>
+          <h3>{date} - {name}</h3>
+          <p>{text}</p>
+        </div>
+      )
+    })}
     </div>
   );
 }
