@@ -22,11 +22,13 @@ function App() {
     <br />
     <h2>The Team</h2>
     <p>OCS - Main Developer</p>
+    <p>codeflight - Web Dev</p>
     <p>Stealth9_ - Developer</p>
     <p>Retrofins - Developer</p>
     <br />
     <h2>Discord Team</h2>
     <p>OCS - Admin</p>
+    <p>codeflight - Admin</p>
     <p>Stealth9_ - Admin</p>
     <p>Retrofins - Admin</p>
     <p>Spacey - Admin</p>
