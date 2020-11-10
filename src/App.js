@@ -10,7 +10,7 @@ function App() {
     <img style={{display: "inline"}} src="RockDotLogo NoText.png" alt="logo" width="300" hight="300" />
     <h3 style={{display: "inline", position: "absolute"}}>‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎RockDotGames</h3>
     </div>
-    <h2>Welcome to RockDotGames</h2>
+    <h2>Welcome to RockDotGamesE</h2>
     <p>RockDotGames is a small development group for small projects made in Unity.</p>
     <br />
     <h2>Games</h2>
