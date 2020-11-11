@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 import announcements from './announcements.json'
@@ -14,9 +13,9 @@ function App() {
     <p>RockDotGames is a small development group for small projects made in Unity.</p>
     <br />
     <h2>Games</h2>
-    <iframe class="iframeitch" frameborder="0" src="https://itch.io/embed/802854" width="552" height="167"><a href="https://rockdotgames.itch.io/driving-goose">Driving Goose by RockDotGames</a></iframe>
+    <iframe title="driving goose" class="iframeitch" frameborder="0" src="https://itch.io/embed/802854" width="552" height="167"><a href="https://rockdotgames.itch.io/driving-goose">Driving Goose by RockDotGames</a></iframe>
     <h2>Discord</h2>
-    <iframe src="https://discordapp.com/widget?id=770682036742127636&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    <iframe title="discord" src="https://discordapp.com/widget?id=770682036742127636&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     <h2>Patreon</h2>
     <a href="https://www.patreon.com/RockDotGames?fan_landing=true">Click Here</a>
     <br />
