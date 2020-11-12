@@ -40,6 +40,10 @@ iframe {
   height: 10vw;
 }
 footer{
+ top: 0;
+ left: 0;
+ padding: 1vw;
+ width: 100vw;
  background: #494949;
 }
 a{
