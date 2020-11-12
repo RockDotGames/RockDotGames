@@ -45,6 +45,7 @@ footer{
  padding: 1vw;
  width: 100vw;
  background: #494949;
+ position: absolute;
 }
 a{
 color: white;
