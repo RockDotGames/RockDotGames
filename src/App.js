@@ -48,6 +48,11 @@ function App() {
         </div>
       )
     })}
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
     <footer>
     <p>Email: <br />
     <a href="rockdotgames@gmail.com">rockdotgames@gmail.com</a></p>
