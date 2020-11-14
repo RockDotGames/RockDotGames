@@ -45,24 +45,14 @@ function App() {
         <div>
           <h3>{date} - {name}</h3>
           <p>{text}</p>
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
         </div>
       )
     })}
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
     <footer>
     <p>Email: <br />
     <a href="rockdotgames@gmail.com">rockdotgames@gmail.com</a></p>
