@@ -40,13 +40,14 @@ function App() {
     <br />
     <br />
     <h2>Announcements</h2>
-    {announcements.map(({date, name, text}) => {
+    {announcements.map(({date, name, text, date2, name2, text2}) => {
       return (
         <div>
           <h3>{date} - {name}</h3>
           <p>{text}</p>
           <br />
-          <br />
+          <h3>{date2} - {name2}</h3>
+          <p>{text2}</p>
           <br />
           <br />
           <br />
